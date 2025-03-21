@@ -1,4 +1,4 @@
-# Name - Elayavan K
+# Name - Elaiyavan K
 # Ref No: - 212224100015
 # Practice Linux commands in the terminal
 ### lesson 1
